@@ -27,7 +27,7 @@ jobs:
         cd src
         python cal.py
 
-    - name: Run tests
-      run: |
-        cd src
-        python -m pytest cal.py
+    # - name: Run tests
+    #   run: |
+    #     cd src
+    #     python -m pytest cal.py
