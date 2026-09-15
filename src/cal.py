@@ -1,4 +1,4 @@
 def addition(a,b):
     return a+b
 
-addition(23,76)
+print(addition(23,76))
